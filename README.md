@@ -1,1 +1,1 @@
-# Amazon-CSS-Clone
+Basic HTML & CSS Based Amazon Website Clone
