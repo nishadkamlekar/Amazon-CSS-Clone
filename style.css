@@ -160,8 +160,7 @@ span{
 }
 /* herro */
 .hero-sec{
-    height: 600px;
-    width: 1500px;
+    height: 600px;
     background-image: url(redmi.jpg);
     background-size: cover;
     display: flex;
